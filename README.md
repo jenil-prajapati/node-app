@@ -1,1 +1,1 @@
-# node-app
+# Testing the ReactJS App
